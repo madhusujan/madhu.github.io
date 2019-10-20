@@ -1189,7 +1189,7 @@ body.offcanvas .colorlib-nav-toggle {
   color: #2c98f0;
 }
 
-.project {
+.resume {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1199,7 +1199,7 @@ body.offcanvas .colorlib-nav-toggle {
   display: block;
   margin-bottom: 30px;
 }
-.project .desc {
+.resume .desc {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -1211,23 +1211,23 @@ body.offcanvas .colorlib-nav-toggle {
   -o-transition: 0.3s;
   transition: 0.3s;
 }
-.project .desc .con {
+.resume .desc .con {
   padding: 20px;
   display: block;
   position: relative;
   height: 300px;
 }
-.project .desc .con .icon {
+.resume .desc .con .icon {
   position: absolute;
   bottom: 20px;
   left: 20px;
   right: 20px;
 }
-.project .desc .con .icon span {
+.resume .desc .con .icon span {
   display: inline;
   padding-right: 5px;
 }
-.project .desc .con .icon span a {
+.resume .desc .con .icon span a {
   color: #333333;
   padding: 5px;
   background: rgba(255, 255, 255, 0.5);
@@ -1236,11 +1236,11 @@ body.offcanvas .colorlib-nav-toggle {
   -ms-border-radius: 4px;
   border-radius: 4px;
 }
-.project .desc .con .icon i {
+.resume .desc .con .icon i {
   font-size: 16px;
   color: #333333;
 }
-.project .desc h3 {
+.resume .desc h3 {
   font-family: "Quicksand", Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
@@ -1256,10 +1256,10 @@ body.offcanvas .colorlib-nav-toggle {
   transform: translate3d(0, -15px, 0);
   margin-bottom: 15px;
 }
-.project .desc h3 a {
+.resume .desc h3 a {
   color: #fff;
 }
-.project .desc span {
+.resume .desc span {
   display: block;
   color: rgba(255, 255, 255, 0.7);
   font-size: 13px;
@@ -1272,33 +1272,33 @@ body.offcanvas .colorlib-nav-toggle {
   -webkit-transform: translate3d(0, 15px, 0);
   transform: translate3d(0, 15px, 0);
 }
-.project .desc span a {
+.resume .desc span a {
   color: #000;
 }
 @media screen and (max-width: 768px) {
-  .project .desc {
+  .resume .desc {
     opacity: 1;
     background: rgba(0, 0, 0, 0.4);
   }
-  .project .desc h3 {
+  .resume .desc h3 {
     font-style: 28px;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
     color: #000;
   }
-  .project .desc span {
+  .resume .desc span {
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
   }
 }
-.project:hover .desc {
+.resume:hover .desc {
   opacity: 1;
 }
-.project:hover .desc h3 {
+.resume:hover .desc h3 {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
 }
-.project:hover .desc span {
+.resume:hover .desc span {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
 }
