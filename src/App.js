@@ -19,7 +19,6 @@ class App extends Component {
             <Skills />
             <Resume />
             <Contact />
-            <Footer />
           </div>
         </div>
       </div>
