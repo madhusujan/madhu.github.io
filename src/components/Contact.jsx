@@ -11,7 +11,7 @@ const Contact = props => {
           <div className="row">
             <span className="heading-meta">How to Contact?</span>
             <h4 className="colorlib-heading">Let's be friends </h4>
-            <div className="col-md-3 text-center">
+            <div className="col-md-2 text-center">
               <a
                 href="https://www.facebook.com/madhusujan97"
                 class="fa fa-facebook"
@@ -19,7 +19,7 @@ const Contact = props => {
                 rel="noopener noreferrer"
               />
             </div>
-            <div className="col-md-3  text-center" text-cente>
+            <div className="col-md-2  text-center" text-cente>
               <a
                 href="https://twitter.com/madhu_sujan"
                 class="fa fa-twitter"
@@ -27,7 +27,7 @@ const Contact = props => {
                 rel="noopener noreferrer"
               />
             </div>
-            <div className="col-md-3 text-center">
+            <div className="col-md-2 text-center">
               <a
                 href="https://www.linkedin.com/in/madhu-paudel-305b2b14a/"
                 class="fa fa-linkedin"
@@ -35,10 +35,18 @@ const Contact = props => {
                 rel="noopener noreferrer"
               />
             </div>
-            <div className="col-md-3 text-center">
+            <div className="col-md-2 text-center">
               <a
                 href="https://www.instagram.com/madhu_sujan/"
                 class="fa fa-instagram"
+                target="_blank"
+                rel="noopener noreferrer"
+              />
+            </div>
+            <div className="col-md-2 text-center">
+              <a
+                href="https://www.github.com/madhusujan/"
+                class="fa fa-github"
                 target="_blank"
                 rel="noopener noreferrer"
               />

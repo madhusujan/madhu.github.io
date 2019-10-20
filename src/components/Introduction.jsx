@@ -31,7 +31,7 @@ class Introduction extends Component {
               <li style={{ backgroundImage: "url(images/about.jpg)" }}>
                 <Landingpage {...slide1} />
               </li>
-              <li style={{ backgroundImage: "url(images/about1.jpg)" }}>
+              <li style={{ backgroundImage: "url(images/about.jpg)" }}>
                 <Landingpage {...slide2} />
               </li>
             </ul>

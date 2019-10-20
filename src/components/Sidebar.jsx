@@ -70,8 +70,8 @@ export default class Sidebar extends Component {
                   Madhu Sujan Paudel © 2019. <br />
                   Made with <i className="icon-heart" aria-hidden="true" />
                   <br></br>
-                  Thanks freecodecamp(
-                  <i className="icon-fire2" aria-hidden="true" />)
+                  {/* Thanks freecodecamp(
+                  <i className="icon-fire2" aria-hidden="true" />) */}
                 </small>
               </p>
             </div>
