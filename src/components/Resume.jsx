@@ -16,7 +16,7 @@ const Resume = props => {
                   className="btn btn-primary btn-lg btn-load-more"
                   target="_blank"
                 >
-                  Click to View Res <i className="icon-download4" />
+                  Click to View Resume <i className="icon-download4" />
                 </a>
               </p>
             </div>
